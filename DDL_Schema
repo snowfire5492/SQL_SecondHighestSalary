@@ -1,0 +1,11 @@
+CREATE TABLE Employee(
+  Id  INTEGER PRIMARY KEY,
+  Salary INTEGER NOT NULL
+ );
+
+INSERT INTO Employee values ('1','100');
+INSERT INTO Employee values ('2','200');
+INSERT INTO Employee values ('3','300');
+INSERT INTO Employee values ('4','350');
+
+
